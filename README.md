@@ -1,5 +1,7 @@
 # Robotic Manipulation Final Project - Autonomous Grasp from Point Cloud
-[Note: Both listed contributors are actually me.]
+
+ [Note: Both listed contributors are actually me.]
+ 
  ROB 498/599 Intro to Robotic Manipulation final project.
 
 
