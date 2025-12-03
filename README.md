@@ -43,5 +43,3 @@ This project implements an automated grasping pipeline in a simulated PyBullet e
 - `open3d`  
 - `pybullet`  
 - `matplotlib`  
-- Custom helper: `assignment_6_helper.py`
-
